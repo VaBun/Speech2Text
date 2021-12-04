@@ -1,4 +1,4 @@
-Скачивание модели vosk.
+Скачать модель vosk:
 ```
 git clone https://github.com/alphacep/vosk-api
 cd vosk-api/python/example
