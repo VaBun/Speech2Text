@@ -1,3 +1,7 @@
+Команда NO1
+
+Цифровой Прорыв, финал, Кейс РБК.
+
 Скачать модель vosk:
 ```
 git clone https://github.com/alphacep/vosk-api
@@ -7,3 +11,5 @@ unzip vosk-model-ru-0.22.zip
 mv vosk-model-ru-0.22.zip model
 ```
 В файле app.py в Model("SOME_PATH"), заменить путь на путь до разархивированной модели.
+
+Дмитрий Симаков, Василий Бунаков, Никита Чуркин, Евгений Хинензон.
